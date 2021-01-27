@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Inteli
+      - title: Inteligentní dokumentové šablony
         content: >
           **Vytvářejte a upravujte interaktivní firemních dokumenty přímo ve
           webovém prohlížeči**, bez nutnosti instalace aplikací na lokální
