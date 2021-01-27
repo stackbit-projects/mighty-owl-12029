@@ -45,7 +45,7 @@ sections:
           - label: Chci vědět víc
             url: /features
             style: secondary
-      - title: Feature 2
+      - title: Průvodce dokumentem
         content: >
           Průvodce dokumentem zajistí orientaci i v rozsáhlých dokumentech.
 
