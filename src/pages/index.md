@@ -28,10 +28,15 @@ sections:
     title: Features
     features:
       - title: Feature 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Vytvářejte a upravujte interaktivní firemních dokumenty přímo ve
+          webovém prohlížeči**, bez nutnosti instalace aplikací na lokální
+          počítače.
+
+          Smlouvy, nabídky, obchodní dopisy, zápisy z jednání a další obchodní
+          dokumenty jsou tak jednoduše dostupné pro všechny uživatele a
+          inteligentní dokumentové šablony jim dovolí soustředit se jen na
+          kvalitní obsah bez starostí o formu.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
