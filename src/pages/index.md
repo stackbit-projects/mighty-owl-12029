@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Domů
 sections:
   - type: hero_section
     title: Interaktivní komunikace
