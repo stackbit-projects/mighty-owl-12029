@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Interaktivní komunikace
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Moderní personalizovaná klientská komunikace vyžaduje nástroje pro
+      interaktivní práci s dokumenty.
     actions:
       - label: Learn More
         url: /features
