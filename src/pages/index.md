@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: Feature 1
+      - title: Inteli
         content: >
           **Vytvářejte a upravujte interaktivní firemních dokumenty přímo ve
           webovém prohlížeči**, bez nutnosti instalace aplikací na lokální
