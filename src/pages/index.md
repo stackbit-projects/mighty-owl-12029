@@ -7,7 +7,7 @@ sections:
       Moderní personalizovaná klientská komunikace vyžaduje nástroje pro
       interaktivní práci s dokumenty.
     actions:
-      - label: 'Chci '
+      - label: Chci vědět víc
         url: /features
         style: primary
       - label: Contact Us
