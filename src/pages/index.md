@@ -42,7 +42,7 @@ sections:
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
-          - label: Learn More
+          - label: Chci vědět víc
             url: /features
             style: secondary
       - title: Feature 2
