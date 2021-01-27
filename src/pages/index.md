@@ -10,7 +10,7 @@ sections:
       - label: Chci vědět víc
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Kontaktujte nás
         url: /contact
         style: secondary
     align: left
