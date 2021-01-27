@@ -83,8 +83,9 @@ sections:
   - type: cta_section
     title: Inteligentně a interaktivně
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Dejte svým lidem možnost soustředit se na obchod a péči o klienta. Náš
+      systém se postará o všechno ostatní, co je spojené s procesy a principy
+      moderní, personalizované klientské komunikace.
     actions:
       - label: Learn More
         url: /features
