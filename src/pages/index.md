@@ -87,7 +87,7 @@ sections:
       systém se postará o všechno ostatní, co je spojené s procesy a principy
       moderní, personalizované klientské komunikace.
     actions:
-      - label: Learn More
+      - label: Chci vědět víc
         url: /features
         style: primary
     has_background: true
