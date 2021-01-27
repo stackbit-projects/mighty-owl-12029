@@ -61,10 +61,13 @@ sections:
             url: /features
             style: secondary
       - title: Knihovna dokumentových šablon
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Uživatel si snadno najde dokumentovou šablonu přesně pro svojí
+          aktuální situaci a potřeby. Šablony jsou vždy aktualizované a dostupné
+          ihned. Řazení šablon do kategorií pak dále usnadňuje uživateli
+          vyhledání správné šablony. Systém umí pracovat s uživatelským
+          oprávněním a může vybrané šablony zpřístupnit pouze pro relevantní
+          uživatelské skupiny.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
